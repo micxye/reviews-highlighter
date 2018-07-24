@@ -1,0 +1,14 @@
+{
+  "name": "review-highlights",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rh.js",
+  "scripts": {
+    "start": "node rh.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}

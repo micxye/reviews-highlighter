@@ -11,10 +11,10 @@ An example .txt file with 3 reviews:
     Food here is pretty decent.,
     Don't come here.
 
-In terminal, navigate to review-highlights folder and then enter
+In terminal, navigate to root folder reviews-highlighter  and then enter:
 
-# npm start
-# filename in reviews folder (marlowe.txt)
-# number of highlights (integer)
+1. npm start
+2. filename in reviews folder (marlowe.txt)
+3. number of highlights (integer)
 
 Your highlights will be printed to the console!
